@@ -1,4 +1,4 @@
-# covid19-App (if you love this app please give me a star)
+# covid19-App (if you like this app please give me a star)
 ![SNAG-41122416040600](https://user-images.githubusercontent.com/59305419/90258108-61520c00-de48-11ea-8da6-54988149eab3.png)
 ![SNAG-41122416043300](https://user-images.githubusercontent.com/59305419/90258116-62833900-de48-11ea-8542-8493fd018729.png)
 ![SNAG-41122416045000](https://user-images.githubusercontent.com/59305419/90258118-631bcf80-de48-11ea-94bb-344a1610d22f.png)
